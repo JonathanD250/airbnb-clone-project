@@ -37,3 +37,29 @@ This Project is a clone of Airbnb, built to practice front-end development skill
 
 ### Importance of User-Friendly Design
 A booking system must be easy to use. If the design is confusing, users will abandon the process before completing their booking. A user-friendly design reduces friction, builds trust, and improves conversion rates. It ensures users find properties quickly, understand the details clearly, and complete their booking without unnecessary steps.
+
+### Figma Environment Exploration
+
+### Color Styles
+- Primary: #34967C
+- Secondary: #FFA800, 
+- Background: #FFFFFF
+- Text Dark: #161117
+- Text Light: #BEBEBE
+
+### Typography 
+- Font Family: Quicksand
+- Font Weight: 
+  - 500 (Medium) - for Content 
+  - 700 (Bold) - for Title
+- Font Sizes: 
+  - Title: 27px - 50px
+  - Body: 18px - 23px
+  - Small text: 12.95px 
+
+### Importance of Identitfying Design Properties
+- Maintains **Consistency** across all screen.
+- Ensures **developers code the UI exactly as designed**.
+- Improves **collabration** between designers and developers.
+- Saves time by reusing shared design token (colors, fonts). 
+- Makes the product more **accessible and user-frendly**. 
