@@ -123,3 +123,25 @@ A booking system must be easy to use. If the design is confusing, users will aba
 - Facilitates agile ceremonies (standup, sprint planning, retrospectives).
 - Removes blockers for the team.
 - Promotes agile practices and continuous implementation.
+
+### UI Component Patterns
+
+The following UI components will be developed for the Airbnb Clone project:
+
+### Navbar
+
+- Procides site-wide navigation.
+- includes logo, search bar, and links to major section (Home, Explore, Profile, Bookings).
+- Responsive design to work on both desktop and mobile.
+
+### Property Card
+
+- Displays individual property details in a compact view
+- Includes images, property title, location, price, and rating.
+- Clickable to navigate to the detailed property view.
+
+### Footer
+
+- Contains essential links such as About, Contant, Terms, and Privacy Policy.
+- Provides social media icons and copyright notice.
+- Stays consistent across all pages.
