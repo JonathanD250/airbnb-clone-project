@@ -7,15 +7,15 @@ This Project is a clone of Airbnb, built to practice front-end development skill
 ## Goals
 
 - Recreate core Airbnb page (home, listing, booking).
-- Strengthen React and Tailwind css skills.
-- Learn Git and Github workflow.
+- Strengthen React and Tailwind CSS skills.
+- Learn Git and GitHub workflow.
 
 ## Tech Stack
 
-- HTML, CSS, javaScript
+- HTML, CSS, JavaScript
 - React
-- Tailwind Css
-- Git and Github
+- Tailwind CSS
+- Git and GitHub
 
 ## UI/UX Design Planning
 
@@ -23,7 +23,7 @@ This Project is a clone of Airbnb, built to practice front-end development skill
 
 - Provide a clean and instructive interface.
 - Ensure accessibility for all users.
-- Optimize navigation between pages.
+- Optimise navigation between pages.
 - Deliver a smooth booking experience with minimal clicks.
 
 ### Key Features
@@ -66,12 +66,12 @@ A booking system must be easy to use. If the design is confusing, users will aba
   - Body: 18px - 23px
   - Small text: 12.95px
 
-### Importance of Identitfying Design Properties
+### Importance of Identifying Design Properties
 
 - Maintains **Consistency** across all screen.
 - Ensures **developers code the UI exactly as designed**.
 - Improves **collaboration** between designers and developers.
-- Saves time by reusing shared design token (colors, fonts).
+- Saves time by reusing shared design tokens (colors, fonts).
 - Makes the product more **accessible and user-friendly**.
 
 ## Project Roles and Responsibilities
@@ -97,7 +97,7 @@ A booking system must be easy to use. If the design is confusing, users will aba
 ### Designer
 
 - Create wireframes, mockups, and prototypes in Figma.
-- Define color schemes, typogrsphy, and UI component.
+- Define color schemes, typography, and UI components.
 - Ensure a consistent and user-friendly experience.
 
 ### QA/Testers
@@ -115,7 +115,7 @@ A booking system must be easy to use. If the design is confusing, users will aba
 ### Product Owner
 
 - Defines product vision and roadmap.
-- Prioritizes features in the backlog.
+- Prioritises features in the backlog.
 - Acts as the voice of the customer to ensure the product meets user needs.
 
 ### Scrum Master
@@ -130,8 +130,8 @@ The following UI components will be developed for the Airbnb Clone project:
 
 ### Navbar
 
-- Procides site-wide navigation.
-- includes logo, search bar, and links to major section (Home, Explore, Profile, Bookings).
+- Provides site-wide navigation.
+- includes logo, search bar, and links to major sections (Home, Explore, Profile, Bookings).
 - Responsive design to work on both desktop and mobile.
 
 ### Property Card
@@ -142,6 +142,6 @@ The following UI components will be developed for the Airbnb Clone project:
 
 ### Footer
 
-- Contains essential links such as About, Contant, Terms, and Privacy Policy.
+- Contains essential links such as About, Contact, Terms, and Privacy Policy.
 - Provides social media icons and copyright notice.
 - Stays consistent across all pages.
